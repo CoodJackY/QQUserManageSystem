@@ -1,0 +1,28 @@
+C:\Documents and Settings\hang.yin.PRD\桌面\QQUserManageSystem\QQUserManageSystem\bin\Debug\QQUserManageSystem.exe
+C:\Documents and Settings\hang.yin.PRD\桌面\QQUserManageSystem\QQUserManageSystem\bin\Debug\QQUserManageSystem.pdb
+C:\Documents and Settings\hang.yin.PRD\桌面\QQUserManageSystem\QQUserManageSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\hang.yin.PRD\桌面\QQUserManageSystem\QQUserManageSystem\obj\Debug\QQUserManageSystem.exe
+C:\Documents and Settings\hang.yin.PRD\桌面\QQUserManageSystem\QQUserManageSystem\obj\Debug\QQUserManageSystem.pdb
+E:\ACCP\ACCP6.0\S1\C#\开发\Chapter17\项目参考代码\QQUserManageSystem\QQUserManageSystem\obj\Debug\QQUserManageSystem.exe
+E:\ACCP\ACCP6.0\S1\C#\开发\Chapter17\项目参考代码\QQUserManageSystem\QQUserManageSystem\obj\Debug\QQUserManageSystem.pdb
+E:\ACCP\ACCP6.0\S1\C#\开发\Chapter17\项目参考代码\QQUserManageSystem\QQUserManageSystem\bin\Debug\QQUserManageSystem.exe
+E:\ACCP\ACCP6.0\S1\C#\开发\Chapter17\项目参考代码\QQUserManageSystem\QQUserManageSystem\bin\Debug\QQUserManageSystem.pdb
+E:\ACCP\ACCP6.0\S1\C#\开发\Chapter17\项目参考代码\QQUserManageSystem\QQUserManageSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\ACCP6.0\4.C#+Database+ADO.NET\PPT\Chapter17\项目参考代码\QQUserManageSystem\QQUserManageSystem\bin\Debug\QQUserManageSystem.exe.config
+E:\ACCP6.0\4.C#+Database+ADO.NET\PPT\Chapter17\项目参考代码\QQUserManageSystem\QQUserManageSystem\obj\Debug\QQUserManageSystem.exe
+E:\ACCP6.0\4.C#+Database+ADO.NET\PPT\Chapter17\项目参考代码\QQUserManageSystem\QQUserManageSystem\obj\Debug\QQUserManageSystem.pdb
+E:\ACCP6.0\4.C#+Database+ADO.NET\PPT\Chapter17\项目参考代码\QQUserManageSystem\QQUserManageSystem\bin\Debug\QQUserManageSystem.exe
+E:\ACCP6.0\4.C#+Database+ADO.NET\PPT\Chapter17\项目参考代码\QQUserManageSystem\QQUserManageSystem\bin\Debug\QQUserManageSystem.pdb
+E:\ACCP6.0\4.C#+Database+ADO.NET\PPT\Chapter17\项目参考代码\QQUserManageSystem\QQUserManageSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\公司资料\2011年1月份工作\例外分配工作\Chapter17\项目参考代码\QQUserManageSystem\QQUserManageSystem\bin\Debug\QQUserManageSystem.exe.config
+E:\公司资料\2011年1月份工作\例外分配工作\Chapter17\项目参考代码\QQUserManageSystem\QQUserManageSystem\obj\Debug\QQUserManageSystem.exe
+E:\公司资料\2011年1月份工作\例外分配工作\Chapter17\项目参考代码\QQUserManageSystem\QQUserManageSystem\obj\Debug\QQUserManageSystem.pdb
+E:\公司资料\2011年1月份工作\例外分配工作\Chapter17\项目参考代码\QQUserManageSystem\QQUserManageSystem\bin\Debug\QQUserManageSystem.exe
+E:\公司资料\2011年1月份工作\例外分配工作\Chapter17\项目参考代码\QQUserManageSystem\QQUserManageSystem\bin\Debug\QQUserManageSystem.pdb
+E:\公司资料\2011年1月份工作\例外分配工作\Chapter17\项目参考代码\QQUserManageSystem\QQUserManageSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\GitHub\QQUserManageSystem\QQUserManageSystem\bin\Debug\QQUserManageSystem.exe.config
+E:\GitHub\QQUserManageSystem\QQUserManageSystem\obj\Debug\QQUserManageSystem.exe
+E:\GitHub\QQUserManageSystem\QQUserManageSystem\obj\Debug\QQUserManageSystem.pdb
+E:\GitHub\QQUserManageSystem\QQUserManageSystem\bin\Debug\QQUserManageSystem.exe
+E:\GitHub\QQUserManageSystem\QQUserManageSystem\bin\Debug\QQUserManageSystem.pdb
+E:\GitHub\QQUserManageSystem\QQUserManageSystem\obj\Debug\QQUserManageSystem.csprojResolveAssemblyReference.cache
